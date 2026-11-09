@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>DANNA SÁNCHEZ</h1>
+<h1>Hi, I'm Danna Alejandra Sanchez</h1>
 
 <a href="https://github.com/dany040518">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=20&pause=1500&color=9D4EDD&center=true&vCenter=true&width=600&lines=Applied+Research+%26+Engineering;Edge+AI+%26+IoT+Systems;Data-Driven+Process+Digitalization" alt="Typing SVG" />
